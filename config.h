@@ -208,6 +208,7 @@ MouseKey mkeys[] = {
 	{ Button5,              MODKEY,         kscrolldown,    {.i =  1} },
 	{ Button4,              TERMMOD,        zoom,           {.f =  +1} },
 	{ Button5,              TERMMOD,        zoom,           {.f =  -1} },
+	{ Button3,              XK_NO_MOD,      clippaste,      {.i = 0} },
 };
 
 static char *openurlcmd[] = { "/bin/sh", "-c",
