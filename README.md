@@ -1,4 +1,4 @@
-# My build of st - the simple (suckless) terminal
+# My build of st - the simple (suckless) terminal [![Build Status](https://travis-ci.com/ChiefGokhlayeh/st.svg?branch=master)](https://travis-ci.com/ChiefGokhlayeh/st)
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
